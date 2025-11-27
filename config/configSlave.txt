@@ -1,0 +1,5 @@
+#Ports des sous-serveurs
+slavePorts=23456,23457,23458
+
+#Adresse de broadcast
+adresseBroadCast=192.168.152.255

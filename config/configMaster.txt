@@ -1,0 +1,20 @@
+#Port principal pour recevoir le fichier du client
+port=12345
+
+#Port secondaire pour la liste des fichiers
+listPort=12346
+
+#Port pour les téléchargements
+downloadPort=12347
+
+#Port pour la suppression des fichiers
+removePort=12348
+
+#Port pour les messages broadcast
+#Adresse IP pour les messages broadcast
+
+#Ports des sous-serveurs
+#slavePorts=23456,23457,23458
+
+#IP des sous-serveurs
+#slaveIP=localhost,localhost,localhost
